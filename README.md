@@ -4,6 +4,8 @@
 ### Guilherme Oliveira Peres
 ### Davi Emanuel
 ### Gabriel Cardoso
+### Deibson 
+### Erika
 
 # ExercicioPHP
 
