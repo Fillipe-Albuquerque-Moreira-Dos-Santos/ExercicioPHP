@@ -16,6 +16,6 @@ criar-usuario-da-aplicacao.sql
 
 Sugestão:
 
-Passar o id da tabela tb_curso como parâmetro
-Crie uma função recupera_curso($id) para recuperar os dados do curso (veja a função recupera_aluno($id) dentro do arquivo "\inc\funcoes.inc.php")
-Use os dados recuperados para preencher o formulário de alteração. O campo que tem o type="hidden" serve para guardar o id da linha que deverá ser alterada.
+ - Passar o id da tabela tb_curso como parâmetro
+ - Crie uma função recupera_curso($id) para recuperar os dados do curso (veja a função recupera_aluno($id) dentro do arquivo "\inc\funcoes.inc.php")
+ - Use os dados recuperados para preencher o formulário de alteração. O campo que tem o type="hidden" serve para guardar o id da linha que deverá ser alterada.
