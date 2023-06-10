@@ -1,3 +1,10 @@
+# Nomes 
+
+## Fillipe Albuquerque
+## Guilherme Oliveira Peres
+## Davi Emanuel
+## Gabriel Cardoso
+
 # ExercicioPHP
 
 A atividade poderá ser feita em grupo.
