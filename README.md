@@ -1,9 +1,9 @@
 # Nomes 
 
-## Fillipe Albuquerque
-## Guilherme Oliveira Peres
-## Davi Emanuel
-## Gabriel Cardoso
+### Fillipe Albuquerque
+### Guilherme Oliveira Peres
+### Davi Emanuel
+### Gabriel Cardoso
 
 # ExercicioPHP
 
